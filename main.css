@@ -1,0 +1,74 @@
+/* ZZZZZZZ */
+
+.section-photos {
+    padding-top: 4vw; 
+    padding-bottom: 4vw;
+
+}
+
+.active-link {
+   color: #b388ff;
+   font-weight: bold;
+ }
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+   font-family: 'Courier New', Courier, monospace; 
+}
+h2 {
+   font-family: 'Courier New', Courier, monospace; 
+}
+h3 {
+   font-family: 'Courier New', Courier, monospace; 
+   
+}
+h4 {
+   font-family: 'Courier New', Courier, monospace; 
+}
+h5 {
+   font-family: 'Courier New', Courier, monospace; 
+} 
+
+ /* REGISTER/LOGIN */
+
+ .section-welcome{
+  position: relative;
+  background: url(../img/ceb-og-dota-2.jpg);
+  background-size: cover;
+  background-position: center;
+  border-top: #9fa8da 1px;
+  border-bottom: #9fa8da 1px;
+  min-height: 270px;
+}
+
+.primary-overlay {
+  background: rgba(233, 204, 134, 0.5);
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
